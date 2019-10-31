@@ -35,10 +35,23 @@ You can initialize this repository with code from a Subversion, Mercurial, or TF
 
 `git config --global user.email 'rlucioda@opentext.com'``
 
-### Config Settings
+### Alterando a branch
 
+`git checkout master`
 
-## How to checkout a remote branch in git?
+volta para a anterior
+
+`git checkout -`
+
+### Verifica se existems documentos para commit
+
+`git status`
+
+### Atualiza todos os documentos na área de staging
+
+`git commit -a -m"Mensagem"`
+
+## How to checkout a remote branch in git
 
 ![alt](https://www.educative.io/api/edpresso/shot/4793369437929472/image/6586281372942336https://link)
 
@@ -73,8 +86,15 @@ After this, you can start working on your copy of the fetched remote branch!
 
 Referência [edpresso](https://www.educative.io/edpresso/how-to-checkout-a-remote-branch-in-git?affiliate_id=5082902844932096&utm_source=google&utm_medium=cpc&utm_campaign=platform2&utm_content=ad-1-dynamic&gclid=Cj0KCQjwjOrtBRCcARIsAEq4rW4TJcJMsGTxO7n7OSJ6d4_KhjP-Y4rOFnEpNNHIrsjiID4zwPuSuD0aAoVEEALw_wcB)
 
-## Outras referências 
+## Outras referências
 
 [What are some important git commands?](https://www.educative.io/edpresso/what-are-some-important-git-commands)
 
 [How to squash commits in Git - rebase](https://www.educative.io/edpresso/how-to-squash-commits-in-git)
+
+[How to delete remote branches in Git](https://www.educative.io/edpresso/how-to-delete-remote-branches-in-git)
+https://www.youtube.com/watch?v=SWYqp7iY_Tc&t=1520s
+
+## Vídeos
+
+Curso muito bom para beginners [Git & GitHub Crash Course For Beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc&t=1520s)
