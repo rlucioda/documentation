@@ -29,6 +29,14 @@ You can initialize this repository with code from a Subversion, Mercurial, or TF
 
 `git log --graph --decorate --abbrev-commit --pretty=oneline --all`
 
+### Config Settings
+
+`git config --global user.name "Ricardo Conceição"`
+
+`git config --global user.email 'rlucioda@opentext.com'``
+
+### Config Settings
+
 
 ## How to checkout a remote branch in git?
 
