@@ -33,7 +33,9 @@ You can initialize this repository with code from a Subversion, Mercurial, or TF
 
 `git config --global user.name "Ricardo Conceição"`
 
-`git config --global user.email 'rlucioda@opentext.com'``
+`git config --global user.email 'rlucioda@opentext.com'`
+
+`git config alias.dog "log --all --decorate --oneline --graph"`
 
 ### Alterando a branch
 
@@ -93,7 +95,17 @@ Referência [edpresso](https://www.educative.io/edpresso/how-to-checkout-a-remot
 [How to squash commits in Git - rebase](https://www.educative.io/edpresso/how-to-squash-commits-in-git)
 
 [How to delete remote branches in Git](https://www.educative.io/edpresso/how-to-delete-remote-branches-in-git)
-https://www.youtube.com/watch?v=SWYqp7iY_Tc&t=1520s
+
+[Git Merge e Git Rebase: quando usá-los?](https://www.treinaweb.com.br/blog/git-merge-e-git-rebase-quando-usa-los/)
+
+[Comandos do Git que você precisa conhecer – Parte 1](https://www.treinaweb.com.br/blog/comandos-do-git-que-voce-precisa-conhecer-parte-1/)
+
+[Comandos do Git que você precisa conhecer – Parte 2 – Repositórios Remotos](https://www.treinaweb.com.br/blog/comandos-do-git-que-voce-precisa-conhecer-parte-2-repositorios-remotos/)
+
+**Tutorial Completo** [Backlog Git Tutorial](https://backlog.com/git-tutorial/)
+
+**Tutorial do Bitbucket sobre GIT [Become
+a git guru.](https://www.atlassian.com/git/tutorials)
 
 ## Vídeos
 
