@@ -110,3 +110,5 @@ a git guru.](https://www.atlassian.com/git/tutorials)
 ## Vídeos
 
 Curso muito bom para beginners [Git & GitHub Crash Course For Beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc&t=1520s)
+
+[How to Setup Github Pages - Website on Github - Complete Beginner Tutorial](https://www.youtube.com/watch?v=FiOgz3nKpgk&t=174s)
