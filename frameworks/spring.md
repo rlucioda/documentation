@@ -1,14 +1,19 @@
 # Spring (MVC, BOOT)
 
 ## Dicas
-
 [Sping Initializer](https://start.spring.io/)
 
 ## Sites
-
 https://blog.algaworks.com/spring-data-jpa/
 
 https://www.devmedia.com.br/java-persistence-api-tipos-persistentes-no-jpa/30594:w
+
+### DZone
+**What is the Spring Native Query Library? And how do you run native queries with it?**[Running Native Queries With the Spring Native Query Library](https://dzone.com/articles/running-native-queries-with-the-spring-native-quer?fromrel=true)
+**Creating a data repository is quick and simple with Spring Data. With under 100 lines of code, you can have a data repository with CRUD operations.**[Building A Data Repository With Spring Data](https://dzone.com/articles/building-a-data-repository-with-spring-data?fromrel=true)
+**Check out Spring Data JPA and database relationships.**[Spring Data JPA and Database Relationships](https://dzone.com/articles/spring-data-jpa-and-database)
+<https://dzone.com/articles/introduction-to-spring-data-rest>
+<https://dzone.com/articles/spring-boot-and-spring-data-rest>
 
 ### Thoughs on Java
 [Why, When and How to Use DTO Projections with JPA and Hibernate](https://thoughts-on-java.org/dto-projections/)
@@ -27,9 +32,21 @@ https://vladmihalcea.com/the-best-way-to-map-a-projection-query-to-a-dto-with-jp
 
 [Spring Data JPA Projections](https://www.baeldung.com/spring-data-jpa-projections)
 
+### Mkyong
+
+**Lista com vários links sobre Spring Security** [Spring Security Tutorial](https://www.mkyong.com/tutorials/spring-security-tutorials/?utm_source=mkyong.com&utm_medium=Referral&utm_campaign=sidebar-top2&utm_content=link1)
+
+[Spring Boot JDBC Examples](https://www.mkyong.com/spring-boot/spring-boot-jdbc-examples/?utm_source=mkyong.com&utm_medium=Referral&utm_campaign=footer-left&utm_content=link7)
+
+[Spring REST + Spring Security Example](https://www.mkyong.com/spring-boot/spring-rest-spring-security-example/?utm_source=mkyong.com&utm_medium=Referral&utm_campaign=footer-left&utm_content=link0)
+
+<https://www.mkyong.com/spring-boot/spring-rest-validation-example/?utm_source=mkyong.com&utm_medium=Referral&utm_campaign=footer-left&utm_content=link3>
+
+[Spring Boot – How to send email via SMTP](https://www.mkyong.com/spring-boot/spring-boot-how-to-send-email-via-smtp/?utm_source=mkyong.com&utm_medium=Referral&utm_campaign=sidebar-related&utm_content=link8)
+
 ### Okta
 
-https://developer.okta.com/blog/2017/04/26/bootiful-development-with-spring-boot-and-angular
+<https://developer.okta.com/blog/2017/04/26/bootiful-development-with-spring-boot-and-angular>
 
 #### Progressive Web Application (PWA) with Angular and Spring Boot
 
@@ -63,5 +80,5 @@ Esse deu início a tudo: [11 - Spring Data JPA | Spring Boot | Project Work - En
 [What are microservices really all about? - Microservices Basics Tutorial](https://www.youtube.com/watch?v=j1gU2oGFayY&t=1s)
 
 ## GIT Hub
-
-https://github.com/VikramThakur8/EnquiryApp/tree/7cafb34c7eec19eb401a13a8c5f67f169ccd94c4
+<https://github.com/spring-projects/spring-data-book>
+<https://github.com/VikramThakur8/EnquiryApp/tree/7cafb34c7eec19eb401a13a8c5f67f169ccd94c4>

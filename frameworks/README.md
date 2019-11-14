@@ -3,8 +3,7 @@
 ## Vídeos
 
 ## Repositórios GIT Hub
-
-Vale a pena ver. Comparativo muito bom entre frameworks https://github.com/gothinkster/realworld
+**Vale a pena ver.** Comparativo muito bom entre frameworks https://github.com/gothinkster/realworld
 
 ## Dicas
 

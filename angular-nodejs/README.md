@@ -17,6 +17,8 @@ https://github.com/agoncal/agoncal-application-conference
 
 [Learn More HTML in 12 Minutes](https://www.youtube.com/watch?v=KJ13lX20FqU)
 
+[HTML Crash Course For Absolute Beginners](https://www.youtube.com/watch?v=UB1O30fR-EE)
+
 [Building Cloud Native Progressive Web Apps - Part 2 (Matt Raible & Josh Long)](https://www.youtube.com/watch?time_continue=635&v=xo7djiUBMpU)
 
 
