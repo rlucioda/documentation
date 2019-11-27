@@ -18,20 +18,6 @@
 
 ## Repositórios GIT Hub
 
-### Docker Labs
-
-https://github.com/docker/labs/tree/master/developer-tools/nodejs/porting/
-
-https://github.com/docker/labs/tree/master/developer-tools/nodejs-debugging
-
-https://github.com/docker/labs/tree/master/beginner/
-
-[Docker Swarm Mode Tutorials](https://github.com/docker/labs/tree/master/swarm-mode)
-
-[Developer Tools Tutorials](https://github.com/docker/labs/blob/master/developer-tools/README.md)
-
-[Tutorial: Debugging Java Applications in Docker](https://github.com/docker/labs/tree/master/developer-tools/java-debugging)
-
 ## Dicas
 
 [How to Use Your Bash History in the Linux or macOS Terminal](https://www.howtogeek.com/howto/44997/how-to-use-bash-history-to-improve-your-command-line-productivity/)
@@ -45,6 +31,7 @@ https://github.com/docker/labs/tree/master/beginner/
 `!#`
 
 ## Sites
+<https://www.hostinger.com.br/tutoriais/install-docker-ubuntu>
 
 ### Docker - Exemplos de Configuração
 

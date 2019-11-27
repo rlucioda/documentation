@@ -56,3 +56,5 @@ Tutorial escrito pelo **Matt Raible** [Get Started with JHipster 5](http://gist.
 Curso do Matt Raible para Jipster e Microservices [Play by Play: Developing Microservices and Mobile Apps with JHipster](https://www.pluralsight.com/courses/play-by-play-developing-microservices-mobile-apps-jhipster)
 
 **Angular 4 Java Developers** [Learn how to build Spring Boot & Angular apps using JHipster](https://therealdanvega.teachable.com/p/jhipster/?product_id=456739&coupon_code=JHIPSTER)
+
+[generator-jhipster-multitenancy](https://github.com/sonalake/generator-jhipster-multitenancy)

@@ -1,5 +1,9 @@
 # Referências IONIC
+## Cursos
+### Udemy
+[Ionic 3 para iniciantes](https://www.udemy.com/course/ionic-3-para-iniciantes/)
 
+[Ionic 4 - Build iOS, Android & Web Apps with Ionic & Angular](https://www.udemy.com/course/ionic-2-the-practical-guide-to-building-ios-android-apps/)
 ## Sites
 
 https://ionicframework.com/docs/cli/commands/cordova-run

@@ -1,4 +1,11 @@
 # Spring (MVC, BOOT)
+## Cursos
+### Udemy
+[Spring & Hibernate for Beginners (includes Spring Boot)](https://www.udemy.com/course/spring-hibernate-tutorial/)
+
+### Curso Caelum
+
+[Apostila do curso de Microservices com Spring Cloud da Caelum](https://github.com/caelum/apostila-fj33)
 
 ## Dicas
 [Sping Initializer](https://start.spring.io/)
@@ -54,10 +61,6 @@ https://vladmihalcea.com/the-best-way-to-map-a-projection-query-to-a-dto-with-jp
 
 
 Em francês, mas dá pra entender bem [#1- Introduction: Gestion d'un stock des produits avec Angular 5 et Spring Boot](https://www.youtube.com/watch?v=2Nv8dphr_8k)
-
-## Curso Caelum
-
-[Apostila do curso de Microservices com Spring Cloud da Caelum](https://github.com/caelum/apostila-fj33)
 
 ## Vídeos
 

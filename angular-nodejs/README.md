@@ -7,6 +7,7 @@ https://github.com/agoncal/agoncal-application-conference
 
 [When Enterprise Java Micro Profile meets Angular](https://www.slideshare.net/agoncal/when-enterprise-java-micro-profile-meets-angular?next_slideshow=1)
 
+Site sobre JavaScript - Tem ótimas referências [Introducing JavaScript objects](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects)
 ## Videos
 
 ### HTML
